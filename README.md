@@ -1,6 +1,6 @@
 # Profile
 
-### About me:
+## About me:
 I am Guilherme Huther, Owner of [EQPstats](https://eqpstats.com/) and undergradute student of computer science at [UFPB](https://www.ufpb.br/).
 
 ## Interests:
